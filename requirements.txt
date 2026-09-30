@@ -1,0 +1,2 @@
+# No external packages are required.
+# Python's built-in tkinter module is used.
